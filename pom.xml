@@ -6,7 +6,7 @@
 	<groupId>org.jpetstore</groupId>
 	<artifactId>jpetstore-db</artifactId>
 	<packaging>jar</packaging>
-	<version>1.1-SNAPSHOT</version>
+	<version>1.2-SNAPSHOT</version>
 
 	<name>jpetstore-db</name>
 
