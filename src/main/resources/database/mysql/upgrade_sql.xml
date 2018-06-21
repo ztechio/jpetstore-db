@@ -171,6 +171,7 @@
         </sql>
         <rollback>
 			<sql separator=";">
+				DROP TABLE DB_VERSION;
 				DROP TABLE SEQUENCE;
 				DROP TABLE INVENTORY;
 				DROP TABLE ITEM;
